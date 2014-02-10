@@ -99,7 +99,6 @@ For more information, see [Managing a Premium Database](http://go.microsoft.com/
 
 	
 	
-**Note:** You can only change the Premium status or the reservation size of your database once in a 24 hour period.
 <h2><a id="NextSteps"></a>Next Steps</h2>
 For additional information about Premium databases, see:
 
